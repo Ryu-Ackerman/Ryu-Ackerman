@@ -1,6 +1,6 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Python projects!
-- 🌱 I’m currently learning Web developemnt and my passion is backend
+- 🌱 I’m currently learning Web developemnt and my passion is Backend development
 - 🤔 I’m looking for help with project ideas
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/feruz-nasriddinov-271b7a3a3/) | [Instagram](https://www.instagram.com/th_rimu/) | Telegram: @Th_Rimu
