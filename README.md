@@ -7,7 +7,7 @@ I'm currently learning Full-stack development and my passion is Backend developm
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) (learning), ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats
-![Feruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Feruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryu-Ackerman&show_icons=true&theme=dark)
 
 ## 📫 How to reach me 
 [LinkedIn](https://www.linkedin.com/in/feruz-nasriddinov-271b7a3a3/) | [Instagram](https://www.instagram.com/th_rimu/) | [Telegram](https://t.me/Th_Rimu)
