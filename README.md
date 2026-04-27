@@ -1,4 +1,4 @@
-# Hey, I'm Feruz👋
+# Hey, Feruz here
 
 ## 🧑‍💻 About Me
 I'm currently learning Full-stack development and my passion is Backend development.
