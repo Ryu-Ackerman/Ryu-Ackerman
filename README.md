@@ -4,7 +4,7 @@
  
 ### 🖥️ About Me
  
-I'm a Backend developer learning full-stack development, currently building with Python, Django, and PostgreSQL.
+I'm developer with a strong passion towards Backend, learning full-stack development, currently building with Python, Django, and PostgreSQL.
  
 ---
  
