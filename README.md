@@ -17,7 +17,7 @@ I'm a backend-focused developer learning full-stack development, currently build
  
 ### 🛠️ Tech Stack
  
-![Python](https://img.shields.io/badge/Python-1e1e2e?style=flat-square&logo=python&logoColor=4584b6)
+![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=4584b6)
 ![Django](https://img.shields.io/badge/Django-1e1e2e?style=flat-square&logo=django&logoColor=44b78b)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1e2e?style=flat-square&logo=postgresql&logoColor=4169e1)
 ![Linux](https://img.shields.io/badge/Linux-1e1e2e?style=flat-square&logo=linux&logoColor=f5c518)
