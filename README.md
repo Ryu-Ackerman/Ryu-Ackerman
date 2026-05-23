@@ -4,7 +4,7 @@
  
 ### 🖥️ About Me
  
-I'm a backend-focused developer learning full-stack development, currently building with Python, Django, and PostgreSQL.
+I'm a Backend developer learning full-stack development, currently building with Python, Django, and PostgreSQL.
  
 ---
  
@@ -12,7 +12,7 @@ I'm a backend-focused developer learning full-stack development, currently build
  
 - 🌙 My most productive hours are somewhere between evening and midnight
 - 🇺🇿 Building from Uzbekistan
-- 📡 Currently running a home server on a spare Fedora laptop, just because
+- 📡 Currently trying to run a home server on a spare Fedora laptop, just because
 ---
  
 ### 🛠️ Tech Stack
