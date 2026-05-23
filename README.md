@@ -28,7 +28,7 @@ I'm a Backend developer learning full-stack development, currently building with
  
 ### 📊 GitHub Activity
  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryu-Ackerman&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryu-Ackerman&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true&title=Activity)
  
 ---
  
