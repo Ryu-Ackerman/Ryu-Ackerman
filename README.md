@@ -35,4 +35,5 @@ I'm a Backend developer learning full-stack development, currently building with
 ### 📬 How to reach me
  
 [LinkedIn](https://linkedin.com) · [Instagram](https://instagram.com) · [Telegram](https://telegram.org)
+
 ![catppuccin footer](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true)
