@@ -7,14 +7,7 @@
 I'm a Backend developer looking for project ideas, currently building with Python, Django, and PostgreSQL.
  
 ---
- 
-### ⚡ Fun Facts
- 
-- 🌙 My most productive hours are somewhere between evening and midnight
-- 🇺🇿 Building from Uzbekistan
-- 📡 Currently trying to run a home server on a spare Fedora laptop, just because
----
- 
+
 ### 🛠️ Tech Stack
  
 ![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=4584b6)
@@ -24,6 +17,14 @@ I'm a Backend developer looking for project ideas, currently building with Pytho
 ![Git](https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=f05032)
 ![VS Code](https://img.shields.io/badge/VS_Code-1e1e2e?style=for-the-badge&logo=visualstudiocode&logoColor=007acc)
  
+---
+ 
+### ⚡ Fun Facts
+ 
+- 🌙 My most productive hours are somewhere between evening and midnight
+- 🇺🇿 Building from Uzbekistan
+- 📡 Currently trying to run a home server on a spare Fedora laptop, just because
+  
 ---
  
 ### 📬 How to reach me
