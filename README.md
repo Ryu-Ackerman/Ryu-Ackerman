@@ -26,12 +26,6 @@ I'm a Backend developer looking for project ideas, currently building with Pytho
  
 ---
  
-### 📊 GitHub Activity
- 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryu-Ackerman&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true&title=Activity)
- 
----
- 
 ### 📬 How to reach me
  
 [LinkedIn](https://linkedin.com) · [Instagram](https://instagram.com) · [Telegram](https://telegram.org)
