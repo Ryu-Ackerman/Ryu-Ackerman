@@ -15,6 +15,7 @@ I'm a Backend developer looking for project ideas, currently building with Pytho
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1e2e?style=for-the-badge&logo=postgresql&logoColor=#2351db)
 ![Linux](https://img.shields.io/badge/Linux-1e1e2e?style=for-the-badge&logo=linux&logoColor=f5c518)
 ![Git](https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=f05032)
+![Postman](https://img.shields.io/badge/Postman-1e1e2e?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![VS Code](https://img.shields.io/badge/VS_Code-1e1e2e?style=for-the-badge&logo=visualstudiocode&logoColor=007acc)
  
 ---
