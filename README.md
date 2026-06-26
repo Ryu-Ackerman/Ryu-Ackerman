@@ -24,6 +24,6 @@ I'm a Backend developer looking for project ideas, currently building with Pytho
  
 ### 📬 How to reach me
  
-[LinkedIn](https://linkedin.com) · [Instagram](https://instagram.com) · [Telegram](https://telegram.org)
+[LinkedIn](https://www.linkedin.com/in/feruz-nasriddinov-271b7a3a3/) · [Instagram](https://instagram.com/th_rimu) · [Telegram](https://t.me/Th_Rimu)
 
    ![catppuccin footer](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true)
