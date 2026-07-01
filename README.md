@@ -10,7 +10,7 @@ I'm a Backend developer looking for project ideas, currently building with Pytho
 
 ### 🛠️ Tech Stack
  
-[![](https://skillicons.dev/icons?i=python,django,postgresql,linux,git,github,redis,postman)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,django,postgresql,linux,git,github,docker,redis,postman)](https://skillicons.dev)
  
 ---
  
