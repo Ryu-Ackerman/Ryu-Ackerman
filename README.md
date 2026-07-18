@@ -14,11 +14,11 @@ I'm a Backend developer looking for project ideas and people to collaborate with
  
 ---
  
-### ⚡ Fun Facts
+### Fun Facts
  
-- 🌙 My most productive hours are somewhere between evening and midnight
-- 🇺🇿 Building from Uzbekistan
-- 📡 Currently trying to run a home server on a spare Fedora laptop, just because
+- My most productive hours are somewhere between evening and midnight
+- Building from Uzbekistan
+- Currently trying to run a home server on a spare Fedora laptop, just because
   
 ---
  
