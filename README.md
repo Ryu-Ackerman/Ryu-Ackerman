@@ -8,7 +8,7 @@ I'm a Backend developer looking for project ideas and people to collaborate with
  
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
  
 [![](https://skillicons.dev/icons?i=python,django,postgresql,linux,git,githubactions,github,docker,redis,postman)](https://skillicons.dev)
  
