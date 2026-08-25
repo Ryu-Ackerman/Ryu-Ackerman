@@ -4,13 +4,13 @@
  
 ### 🖥️ About Me
  
-I'm a Backend developer looking for project ideas and people to collaborate with, currently building with Python, Django, Django Rest Framework and PostgreSQL.
+I'm a Backend developer looking for project ideas and people to collaborate with, currently building with Python, Django and Django Rest Framework.
  
 ---
 
 ### 🛠️ Tech Stack & Tools
  
-[![](https://skillicons.dev/icons?i=python,django,aws,postgresql,mysql,mongodb,linux,git,githubactions,github,docker,kubernetes,redis,postman)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,django,aws,linux,postgresql,mysql,mongodb,redis,git,githubactions,github,docker,kubernetes,postman)](https://skillicons.dev)
  
 ---
  
