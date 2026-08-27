@@ -4,7 +4,7 @@
  
 ### 🖥️ About Me
  
-I'm a Backend developer looking for project ideas and people to collaborate with, currently building with Python, Django and Django Rest Framework.
+I'm a Backend developer looking for project ideas and people to collaborate with, currently building with Python, Django, Django Rest Framework and PostgreSQL.
  
 ---
 
